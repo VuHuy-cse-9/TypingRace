@@ -58,7 +58,7 @@ void print(){
     cout << endl;
 }
 
-void tokenProcessor(string* token) {
+void tokenProcessor(string& token) {
 
 }
 
